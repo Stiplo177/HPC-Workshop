@@ -16,6 +16,10 @@ number 4
 ![ssh_process png](https://github.com/user-attachments/assets/d6956e70-f482-486f-b465-0221b1e570db)
 
 number 5
+![cpu_details_tmux1](https://github.com/user-attachments/assets/985d3eb6-9b25-4891-a9e9-0b500b5085f5)
+![cpu_details_tmux2](https://github.com/user-attachments/assets/fb3e68d3-4fd2-43d0-afe8-64384f40960f)
+
+
 
 
 
