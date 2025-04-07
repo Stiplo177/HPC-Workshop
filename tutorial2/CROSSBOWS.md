@@ -12,6 +12,13 @@ number 2
 number 3
 ![ssh_process png](https://github.com/user-attachments/assets/0b03957e-8545-4978-99a1-cb0a7aa0971e)
 
+number 4
+![ssh_process png](https://github.com/user-attachments/assets/d6956e70-f482-486f-b465-0221b1e570db)
+
+number 5
+
+
+
 
 
 
