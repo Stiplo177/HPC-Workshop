@@ -9,6 +9,10 @@ number 2
 ![Screenshot 2025-04-07 100756](https://github.com/user-attachments/assets/dbb21a9a-2e45-4bb7-956f-bbc209df58a8)
 ![Screenshot 2025-04-07 100812](https://github.com/user-attachments/assets/53e36c14-0065-4bc6-8fd3-af0b66de97d4)
 
+number 3
+![ssh_process png](https://github.com/user-attachments/assets/0b03957e-8545-4978-99a1-cb0a7aa0971e)
+
+
 
 
 
